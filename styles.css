@@ -1,0 +1,28 @@
+/* Eigene Styles */
+
+/* Style: Header*/
+h1 {
+    font-family: "Copperplate", Times;
+    color:#65b534; /* helles Grün */
+  }
+  nav a {
+    color: white; /* weiss */
+    text-decoration: none; /* keine Unterstreichung */
+    padding: 0.5rem 1rem;
+  }
+  
+  nav a:hover {
+    color: #65b534; /* helles Grün */
+  }
+  
+  /* Style: Footer*/
+  footer a {
+    color: grey; /* Grau */
+    text-decoration: none; /* keine Unterstreichung */
+    padding: 0.3rem 0.6rem;
+  }
+  
+  footer a:hover {
+    color: #65b534 /* helles Grün */
+  }
+  
